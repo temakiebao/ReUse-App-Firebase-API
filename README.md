@@ -13,7 +13,7 @@ O objetivo é enriquecer o nosso app em React Native para utilizar/consumir APIs
 https://youtu.be/5o2pV-llv58
 
 ## Ferramentas utilizadas  
-React Native, Expo, TypeScript, AsyncStorage
+React Native, Expo, TypeScript, AsyncStorage, Google Firebase
 
 ## INSTRUÇÕES PARA AQUELES QUE QUEREM RODAR O PROJETO PURO
 Siga estas instruções simples para configurar o ambiente e testar o aplicativo:
