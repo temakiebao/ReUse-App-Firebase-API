@@ -10,7 +10,7 @@ O objetivo é enriquecer o nosso app em React Native para utilizar/consumir APIs
 
 ## YOUTUBE LINK
 
-
+https://youtu.be/5o2pV-llv58
 
 ## Ferramentas utilizadas  
 React Native, Expo, TypeScript, AsyncStorage
@@ -20,11 +20,17 @@ Siga estas instruções simples para configurar o ambiente e testar o aplicativo
 
 Clone o repositório no terminal:
 
-git clone [https://github.com/seu-usuario/reuse.git](https://github.com/seu-usuario/reuse.git)
+git clone [[https://github.com/seu-usuario/ReUse-App-Firebase-API](https://github.com/seu-usuario/ReUse-App-Firebase-API)]
 
 Instale as dependências no terminal do VS Code: 
 
 "npm install"
+
+Instalar o firebase no projeto
+
+"npm install firebase"
+
+Iniciar o projeto para emular no Android
 
 "npx expo start"
 
@@ -47,6 +53,10 @@ index.tsx: Tela inicial (Home) com a busca e produtos.
 
 menu.tsx: Tela de perfil e configurações.
 
+cadastro.tsx: Cadastro dos anúncios
+
+login.tsx: Login de usuário
+
 assets/: Imagens, logos e ícones do aplicativo.
 
 components/: Peças reutilizáveis e estilos separados.
@@ -68,4 +78,13 @@ app.json: Nome, ícone e tela de abertura.
 package.json: Lista de bibliotecas instaladas.
 
 tsconfig.json: Regras do TypeScript.
+
+NOVOS
+
+context/
+
+Autenticacao.tsx : Parte lógica da Autenticação do usuário
+
+firabeConfig.ts: API do Firebase
+
 
